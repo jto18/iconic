@@ -24,9 +24,10 @@ img {vertical-align: middle;}
 
 .column {
   float: left;
-  width: 33.33%;
-  padding: 2px; padding-top:50px;
+  width: 43.33%;
+   padding-top:50px;
   height: 580px; 
+  text-align:center;
 }
 
 .texm{color:white; text-align:center; border-style:solid; border-color: white;
