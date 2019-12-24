@@ -105,4 +105,4 @@ margin:40px; background-color: grey;}
   opacity: 1;
   right: 0;
 }
-.button a{color:black;}
+.button a{color:black;text-decoration:underline;}
