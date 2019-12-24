@@ -10,7 +10,7 @@ body{background-color: black;}
 .logo img{height:120px; width:280px;}
 .navi{margin:5px;}
 .text{color:white; text-align:center; margin:40px; }
-.text4{color:black; text-align:center;margin:40px;}
+.text4{color:black; text-align:center;margin:10px;}
 .nav-item a:hover{color:grey; }
 .nav-item{ margin:5px; }
 a{color:white;font-family: 'Russo One', sans-serif;
