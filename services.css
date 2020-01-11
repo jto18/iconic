@@ -22,7 +22,7 @@ img {vertical-align: middle;}
 
 
 
-.column {
+.column {margin-right:20px;
   float: left;
   width: 43.33%;
    padding-top:50px;
