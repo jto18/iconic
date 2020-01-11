@@ -22,7 +22,8 @@ img {vertical-align: middle;}
 
 
 
-.column {margin-right:20px;
+.column {margin-right:10px;
+  margin-left:15px;
   float: left;
   width: 43.33%;
    padding-top:50px;
