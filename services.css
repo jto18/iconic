@@ -108,6 +108,6 @@ margin:40px; background-color: grey;}
   right: 0;
 }
 .button a{color:black;text-decoration:underline;}
-.index{text-align: center; text-decoration:underline; 
-margin:20px;}
-.index:hover{color: dark orange;}
+.index a{text-align: center; text-decoration:underline; 
+margin:20px; font-size:1.25 rem; font-family: 'Gelasio', serif;}
+.index a:hover{color:orange;}
