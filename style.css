@@ -201,5 +201,5 @@ body {
   cursor: pointer;
 }
 .index{text-align: center; text-decoration:underline; 
-margin:20px;}
+margin:20px; font-family: 'Gelasio', serif;}
 .index:hover{color: dark orange;}
