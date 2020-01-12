@@ -202,4 +202,4 @@ body {
 }
 .index{text-align: center; text-decoration:underline; 
 margin:20px; font-family: 'Gelasio', serif;}
-.index:hover{color: dark orange;}
+.index a:hover{color: dark orange;}
