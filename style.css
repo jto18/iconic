@@ -200,6 +200,6 @@ body {
   font-size: 35px;
   cursor: pointer;
 }
-.index{text-align: center; text-decoration:underline; 
+.index a{text-align: center; text-decoration:underline; 
 margin:20px; font-family: 'Gelasio', serif; font-size: 1.25 rem;}
 .index a:hover{color: dark orange;}
