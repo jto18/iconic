@@ -1,4 +1,4 @@
-body{background-color: black;}
+body{background-color: white;}
 .foto img{width:100%}
 .center {
   display: block;
@@ -7,9 +7,9 @@ body{background-color: black;}
   width: 20%;
 }
 .logo{background-color:white;}
-.logo img{height:120px; width:280px;}
+.logo img{height:60px; width:80px;}
 .navi{margin:5px;}
-.text{color:white; text-align:center; margin:40px; }
+.text{color:black; text-align:center; margin:40px; }
 .text4{color:black; text-align:center;margin:10px;}
 .nav-item a:hover{color:grey; }
 .nav-item{ margin:5px; }
@@ -41,7 +41,7 @@ margin:40px; background-color: grey;}
 .footer {
   padding: 5px;
   text-align: center;
-  background: #ddd;
+  
   margin-top: 20px;
 }
 
