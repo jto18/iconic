@@ -11,7 +11,7 @@ font-family: Verdana, sans-serif;}
 .logo img{height:60px; width:80px;}
 .navi{margin:5px;}
 .text{color:black;  margin:15px; 
-  font-size:14px; margin-right:25px; margin-left:25px;}
+  font-size:16px; margin-right:25px; margin-left:25px;}
 .text2{color:black; text-align:center; margin:20px; font-size:18px; }
 .text3{color:black; text-align:center; margin:40px;
 font-size:1.15rem;}
@@ -64,7 +64,7 @@ img {vertical-align: middle;}
 
 .team{text-align:center;}
 .texm{color:white; text-align:center; border-style:solid; border-color: white;
-margin:20px; background-color:black; font-size:16px;}
+margin:20px; background-color:black; font-size:18px;}
 * {
   box-sizing: border-box;
 }
